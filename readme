@@ -1,0 +1,7 @@
+ -----
+| alk |
+ -----
+
+alk is a color scheme. this repo contains color scheme/theme files for several
+editors/terminals that I use, as well as some hand made ones (hopefully).
+alk.Xresources can be loaded into https://terminal.sexy to make modifications.
